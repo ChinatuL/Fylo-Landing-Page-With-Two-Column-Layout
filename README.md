@@ -31,6 +31,10 @@ Users should be able to:
 -   Solution URL: [View Code Here](https://github.com/ChinatuL/Fylo-Landing-Page-with-Two-Column-Layout)
 -   Live Site URL: [View Live Site Here](https://chinatul.github.io/Fylo-Landing-Page-With-Two-Column-Layout/)
 
+## My process
+
+### Built with
+
 -   Semantic HTML5 markup
 -   CSS custom properties
 -   Flexbox
