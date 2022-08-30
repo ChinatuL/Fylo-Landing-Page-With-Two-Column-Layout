@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots/fylo-landing-page-desktop-view.png)
-![](./screenshots/fylo-landing-page-mobile-view.png)
+![](./screenshots/fylo-landing-page-desktop-design.png)
+![](./screenshots/fylo-landing-page-mobile-design.png)
 
 ### Links
 
