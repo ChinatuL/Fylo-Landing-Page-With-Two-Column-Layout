@@ -164,6 +164,7 @@ form {
 /* Section two */
 .section-productive {
     background: top center / cover no-repeat url(./images/bg-curve-desktop.svg);
+    margin-top: 5rem;
 }
 
 .section-productive .description {
